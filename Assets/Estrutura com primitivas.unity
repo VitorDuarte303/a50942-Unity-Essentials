@@ -422,6 +422,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5550592820572182788, guid: 1d48142b8ec9240379048c55779e7031, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5010109419a244a90893b19b453759d0, type: 2}
     - target: {fileID: 5550592820572182790, guid: 1d48142b8ec9240379048c55779e7031, type: 3}
       propertyPath: m_Name
       value: BouncyBall (2)
