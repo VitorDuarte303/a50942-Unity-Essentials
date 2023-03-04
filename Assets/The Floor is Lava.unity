@@ -152,6 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af8c8625a84f8457181fc4cbc3fb86a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: 'Hi! '
 --- !u!4 &18038492
 Transform:
   m_ObjectHideFlags: 0
